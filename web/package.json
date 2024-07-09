@@ -79,7 +79,7 @@
         "@hcaptcha/types": "^1.0.3",
         "@jeysal/storybook-addon-css-user-preferences": "^0.2.0",
         "@lit/localize-tools": "^0.7.2",
-        "@rollup/plugin-replace": "^5.0.5",
+        "@rollup/plugin-replace": "^5.0.7",
         "@spotlightjs/spotlight": "^1.2.17",
         "@storybook/addon-essentials": "^8.1.1",
         "@storybook/addon-links": "^8.1.1",
@@ -129,9 +129,9 @@
         "@esbuild/darwin-arm64": "^0.21.3",
         "@esbuild/linux-amd64": "^0.18.11",
         "@esbuild/linux-arm64": "^0.21.3",
-        "@rollup/rollup-darwin-arm64": "4.17.2",
-        "@rollup/rollup-linux-arm64-gnu": "4.17.2",
-        "@rollup/rollup-linux-x64-gnu": "4.17.2"
+        "@rollup/rollup-darwin-arm64": "4.18.1",
+        "@rollup/rollup-linux-arm64-gnu": "4.18.1",
+        "@rollup/rollup-linux-x64-gnu": "4.18.1"
     },
     "engines": {
         "node": ">=20"
